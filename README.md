@@ -12,4 +12,4 @@ This is a Python program that uses the Pygame module to simulate the card game U
 Download the project files and make sure pygame is installed before running the program.
 
 ## Authors and acknowledgment
-Contributors: Rachana Hegde, Nurcahyo Setiawan, Xueyan Huang, Yiqing Cao, Lianghui Du
+Contributors: Rachana Hegde (Team Lead), Nurcahyo Setiawan, Xueyan Huang, Yiqing Cao, Lianghui Du
